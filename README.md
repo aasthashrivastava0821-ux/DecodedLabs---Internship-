@@ -1,28 +1,34 @@
-# Data Cleaning Project
+# DecodedLabs Internship Projects
 
-##overview
-This project focuses on cleaning and preprocessing an e-commerce dataset using Python and Pandas.
+## Project 1: Data Cleaning Using Python
+- Missing value handling
+- Duplicate detection
+- Dataset cleaning
+- Exported cleaned dataset using Pandas
 
-## Tools Used 
+### Tools Used
 - Python
 - Pandas
-- Microsoft Excel
+- Excel
 
-## Tasks Performed
-- Checked for missing values
-- Identified duplicate records
-- Filled mising CouponCode values
-- Improved data quality for analysis
+---
 
- ## Files Included 
- - data_cleaning.py
- - Dataset for Data Analytics.xlsx
- - Screenshots of output
+## Project 2: E-Commerce EDA & Power BI Dashboard
+- Exploratory Data Analysis (EDA)
+- Sales Trend Analysis
+- Order Status Analysis
+- Payment Method Distribution
+- Referral Source Performance
+- Interactive Power BI Dashboard
 
-## Sample Code
-```python
-df["CouponCode"] = df["CouponCode"].fillna("No CouponCode")
-```
+### Tools Used
+- Python
+- Pandas
+- Power BI
+- Excel
 
-## Author
-Aastha Shrivastava
+---
+
+## Dashboard Preview
+
+![Dashboard](Dashboard_screenshot.png)
